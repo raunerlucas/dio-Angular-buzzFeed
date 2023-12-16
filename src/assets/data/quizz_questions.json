@@ -1,0 +1,121 @@
+{
+  "title": "Descubra seu Temperamento!",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Como você reage a situações de estresse?",
+      "options": [
+        {"id": 1, "name": "Fico calmo e pensativo", "alias": "F"},
+        {"id": 2, "name": "Fico triste e introspectivo", "alias": "M"},
+        {"id": 3, "name": "Reajo imediatamente", "alias": "S"},
+        {"id": 4, "name": "Fico irritado e agitado", "alias": "C"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Como você lida com mágoas e ressentimentos?",
+      "options": [
+        {"id": 1, "name": "Esqueço facilmente", "alias": "F"},
+        {"id": 2, "name": "Guardo por muito tempo", "alias": "M"},
+        {"id": 3, "name": "Não guardo rancor", "alias": "S"},
+        {"id": 4, "name": "Guardo e expresso minha irritação", "alias": "C"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Como você se comporta em eventos sociais?",
+      "options": [
+        {"id": 1, "name": "Sou reservado e observador", "alias": "F"},
+        {"id": 2, "name": "Fico na minha, mas penso muito", "alias": "M"},
+        {"id": 3, "name": "Sou extrovertido e comunicativo", "alias": "S"},
+        {"id": 4, "name": "Sou assertivo e gosto de liderar", "alias": "C"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Como você lida com mudanças inesperadas?",
+      "options": [
+        {"id": 1, "name": "Com calma e adaptação", "alias": "F"},
+        {"id": 2, "name": "Com tristeza e resistência", "alias": "M"},
+        {"id": 3, "name": "Com entusiasmo e flexibilidade", "alias": "S"},
+        {"id": 4, "name": "Com irritação e busca de soluções rápidas", "alias": "C"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual é a sua abordagem em relação a novas amizades?",
+      "options": [
+        {"id": 1, "name": "Observo antes de me aproximar", "alias": "F"},
+        {"id": 2, "name": "Levo tempo para confiar", "alias": "M"},
+        {"id": 3, "name": "Sou amigável desde o início", "alias": "S"},
+        {"id": 4, "name": "Sou extrovertido e faço muitas amizades rapidamente", "alias": "C"}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Como você se sente em situações de competição?",
+      "options": [
+        {"id": 1, "name": "Não me importo muito com competições", "alias": "F"},
+        {"id": 2, "name": "Fico nervoso e ansioso", "alias": "M"},
+        {"id": 3, "name": "Gosto de competir e ganhar", "alias": "S"},
+        {"id": 4, "name": "Adoro competir e liderar", "alias": "C"}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Como você reage a críticas construtivas?",
+      "options": [
+        {"id": 1, "name": "Aceito de forma tranquila", "alias": "F"},
+        {"id": 2, "name": "Fico magoado, mas reflito sobre elas", "alias": "M"},
+        {"id": 3, "name": "Aceito e tento melhorar", "alias": "S"},
+        {"id": 4, "name": "Posso ficar irritado, mas busco melhorar", "alias": "C"}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Qual é a sua abordagem em relação a regras e autoridade?",
+      "options": [
+        {"id": 1, "name": "Respeito as regras e autoridade", "alias": "F"},
+        {"id": 2, "name": "Questiono algumas regras, mas respeito a autoridade", "alias": "M"},
+        {"id": 3, "name": "Gosto de flexibilidade e questiono autoridade", "alias": "S"},
+        {"id": 4, "name": "Tendo a desafiar regras e autoridade", "alias": "C"}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Como você lida com prazos e pressão no trabalho?",
+      "options": [
+        {"id": 1, "name": "Mantenho a calma e trabalho com eficiência", "alias": "F"},
+        {"id": 2, "name": "Fico estressado, mas cumpro os prazos", "alias": "M"},
+        {"id": 3, "name": "Gosto de desafios e pressão", "alias": "S"},
+        {"id": 4, "name": "Gosto de liderar e alcançar resultados rápidos", "alias": "C"}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Como você se sente em relação a rotinas?",
+      "options": [
+        {"id": 1, "name": "Gosto de rotinas e estabilidade", "alias": "F"},
+        {"id": 2, "name": "Tenho uma relação ambivalente com rotinas", "alias": "M"},
+        {"id": 3, "name": "Prefiro variedade e novidades", "alias": "S"},
+        {"id": 4, "name": "Não sou fã de rotinas, prefiro desafios", "alias": "C"}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Como você se sente em relação a liderar um grupo?",
+      "options": [
+        {"id": 1, "name": "Não me importo em liderar, mas não busco isso", "alias": "F"},
+        {"id": 2, "name": "Prefiro não liderar, mas posso se necessário", "alias": "M"},
+        {"id": 3, "name": "Gosto de liderar, mas não é essencial", "alias": "S"},
+        {"id": 4, "name": "Adoro liderar e buscar resultados", "alias": "C"}
+      ]
+    }
+  ],
+  "results": {
+    "F": " Fleumático. Geralmente não reage de imediato e tem facilidade em esquecer/perdoar.",
+    "M": " Melancólico. Possui a mesma tendência à passividade do Fleumático, mas guarda por muito tempo fatos marcantes.",
+    "S": " Sanguíneo. Age rápido e imediatamente, mas não retém por muito tempo aquilo que lhe acontece.",
+    "C": " Colérico. É assertivo e gosta de liderar, podendo ficar irritado facilmente."
+  }
+}

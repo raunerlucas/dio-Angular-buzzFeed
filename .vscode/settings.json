@@ -1,0 +1,7 @@
+{
+    "editor.renderWhitespace": "selection",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "workbench.preferredLightColorTheme": "Kimbie Dark",
+    "workbench.iconTheme": "material-icon-theme"
+}
